@@ -1,0 +1,17 @@
+1. Technology Stack
+Frontend: Streamlit (Best for ML projects) or React.js (for a professional look).
+
+Backend: FastAPI or Flask (to serve the ML model and rule engine).
+
+Machine Learning: Scikit-learn, XGBoost, and SHAP (for explainability).
+
+Database: PostgreSQL or MongoDB (to store user profiles and repayment history).
+
+Automation: APScheduler (to run the periodic "Dynamic Update" of scores).
+
+Step,Task,Deliverable
+Week 1,Data & ML,"Clean Kaggle data, train Random Forest, save model as .pkl."
+Week 2,Backend,Set up FastAPI. Create the /predict endpoint to serve the .pkl model.
+Week 3,Rule Engine,Code the logic for rewards/penalties based on the PPT Case Studies (1-4).
+Week 4,Frontend,"Build the Streamlit UI with input forms and a ""Risk Meter"" dashboard."
+Week 5,Integration,Connect Frontend to Backend. Test rejections to ensure SHAP explanations work.

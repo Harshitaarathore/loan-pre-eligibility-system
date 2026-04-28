@@ -97,6 +97,6 @@ The system predicts whether a user is eligible for a loan based on input feature
 
 ## 👩‍💻 Author
 
-Harshita Rathore
-Doddapunneni Jahanavi 
+ * Harshita Rathore
+ * Doddapunneni Jahanavi 
 ---
